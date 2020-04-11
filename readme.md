@@ -2,8 +2,8 @@
 ### 个人信息
 - 姓名：孟彤
 - 学号：19302010064
-- github地址：https://github.com/mmmmtttt/SOFT130002_lab/tree/master/Project_1
-- Github Pages 地址：https://mmmmtttt.github.io/SOFT130002_lab/
+- github地址：https://github.com/mmmmtttt/Project_1
+- Github Pages 地址：https://mmmmtttt.github.io/Project_1/
 
 ---
 ### 项目完成情况
